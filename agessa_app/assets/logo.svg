@@ -1,0 +1,13 @@
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dört yaprak (sol yeşil, turuncu, sağ yeşil, mor) -->
+  <!-- Yaprakları merkez etrafında %20 büyüt -->
+  <g id="leaves" transform="translate(57.5 17.75) scale(1.2) translate(-57.5 -17.75)">
+    <ellipse cx="35" cy="18" rx="5" ry="10" fill="#4CAF50" transform="rotate(-25 35 18)" />
+    <ellipse cx="50" cy="15" rx="4" ry="8" fill="#FF9800" transform="rotate(-5 50 15)" />
+    <ellipse cx="65" cy="18" rx="5" ry="10" fill="#8BC34A" transform="rotate(15 65 18)" />
+    <ellipse cx="80" cy="20" rx="5" ry="10" fill="#9C27B0" transform="rotate(30 80 20)" />
+  </g>
+  
+  <!-- Agessa yazısı (lacivert) -->
+  <text x="20" y="55" font-family="Verdana" font-size="36" fill="#1A237E" font-weight="bold">Agessa</text>
+</svg>

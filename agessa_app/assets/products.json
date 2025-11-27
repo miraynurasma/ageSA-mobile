@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "name": "Hayat Sigortaları",
+      "items": [
+        "Hayata Yatırım Sigortası",
+        "VIP Hayat Sigortası",
+        "Her İhtimalin Sigortası (6 Yıllık)",
+        "Her İhtimalin Sigortası (12 Yıllık)"
+      ]
+    },
+    {
+      "name": "Ferdi Kaza Sigortaları",
+      "items": [
+        "Ferdi Kaza Sigortası"
+      ]
+    },
+    {
+      "name": "Emeklilik Planları",
+      "items": [
+        "BES Planları",
+        "Emeklilik Gelir Planı"
+      ]
+    }
+  ],
+  "details": {
+    "Hayata Yatırım Sigortası": {
+      "kisaAciklama": "Orta-uzun vadeli birikim ve korunma için USD cinsinden esnek birikim ürünü.",
+      "uzunAciklama": "İleride \"keşke\" dememek için, \"iyi ki bugünden biriktirmeye başladım\" demek sizin elinizde! Orta-uzun vadeli birikim ve korunma ihtiyaçlarınız için Hayata Yatırım Sigortası yanınızda! Hayata Yatırım Sigortası ile minimum 30 USD birikim primi olmak üzere; 10 yıl poliçe süresi ile USD cinsinden birikim yaparak, yatırımınızı enflasyona karşı korumuş olursunuz. Birikimleriniz fonda değerlenirken, size sunduğu esneklikler ile ödemelerinize ara verebilir ya da olası ihtiyaçlarınızda birikimlerinizden borç alabilirsiniz. Hayata Yatırım Sigortası ile poliçenizin süre sonunda birikimlerinizi elde ettiğiniz tüm getirileri ile geri alırsınız. Sigorta süreniz dolmadan, risk gerçekleşirse koruma (vefat) teminatınız ve kâr paylı birikim tutarınız ile ailenizin geleceğini de güvence altına almış olursunuz. Ayrıca ödediğiniz primlerin yarısını, aylık brüt ücretin %15'ini ve brüt asgari ücretin toplam tutarını aşmamak kaydıyla vergi indiriminde kullanabilirsiniz.",
+      "paraBirimi": "USD",
+      "minimumAylikPrim": 30,
+      "policeSuresiYil": 10,
+      "imageAsset": "assets/images/hayata_yatirim.jpg"
+    },
+    "VIP Hayat Sigortası": {
+      "kisaAciklama": "Bugün ödediğiniz prim, yarın iyileşme sürecinizde desteğiniz olsun.",
+      "uzunAciklama": "Bugün ödediğiniz prim, yarın iyileşme sürecinizde desteğiniz olsun. Tehlikeli hastalıklar teminatını da içeren VIP Hayat Sigortası ile, hem kendinizi hem de sevdiklerinizi güvence altına alabilirsiniz. Ayrıca, ödediğiniz primlerin tamamını, aylık brüt ücretin %15'ini ve brüt asgari ücretin toplam tutarını aşmamak kaydıyla vergi indiriminde kullanabilirsiniz.",
+      "imageAsset": "assets/images/hayata_yatirim.jpg"
+    },
+    "Her İhtimalin Sigortası (6 Yıllık)": {
+      "kisaAciklama": "Agessa her ihtimalde yanınızda! Orta vadeli vefat ve opsiyonel maluliyet teminatlarıyla güvence.",
+      "uzunAciklama": "Agessa her ihtimalde yanınızda ! Orta vadede vefat ve opsiyonel maluliyet teminatları ile kendinizi ve sevdiklerinizi güvence altına alırken, alışılan sigorta ürünlerinden farklı olarak poliçe süre sonunda risk gerçekleşmemişse yaşam teminatına (ödenen primlerin %60ı kadardır), süre sonunda tüm primlerinizi eksiksiz ödemişseniz de ek olarak düzenli ödeme prim iadesine (ödenen primlerin %25i kadardır) yani toplamda ödediğiniz primlerin %85ini geri almaya hak kazanırsınız. Aylık minimum 30 USD olmak üzere, 6 yıl poliçe süresi boyunca döviz cinsinden ödediğiniz primlerle hem enflasyona karşı bir güvence sağlar hem de ödediğiniz primlerin tamamını yasal limitler çerçevesinde vergiden muaf tutabilirsiniz. Ürün özelinde sağlanan esneklikler ile poliçenizin 1.yılından itibaren finansal durumunuza bağlı olarak ödemelerinize ara verebilir, ödediğiniz primi değiştirebilir veya borç alabilirsiniz.",
+      "paraBirimi": "USD",
+      "minimumAylikPrim": 30,
+      "policeSuresiYil": 6,
+      "imageAsset": "assets/images/hayata_yatirim.jpg"
+    },
+    "Her İhtimalin Sigortası (12 Yıllık)": {
+      "kisaAciklama": "Agessa her ihtimalde yanınızda! Orta/uzun vadeli vefat ve opsiyonel maluliyet teminatlarıyla güvence.",
+      "uzunAciklama": "Agessa her ihtimalde yanınızda ! Orta/uzun vadede vefat ve opsiyonel maluliyet teminatları ile kendinizi ve sevdiklerinizi güvence altına alırken, alışılan sigorta ürünlerinden farklı olarak poliçe süre sonunda risk gerçekleşmemişse yaşam teminatına (ödenen primlerin %60ı kadardır), süre sonunda tüm primlerinizi eksiksiz ödemişseniz de ek olarak düzenli ödeme prim iadesine (ödenen primlerin %40ı kadardır) yani toplamda ödediğiniz primlerin tamamını geri almaya hak kazanırsınız. Aylık minimum 30 USD olmak üzere, 12 yıl poliçe süresi boyunca döviz cinsinden ödediğiniz primlerle hem enflasyona karşı bir güvence sağlar hem de ödediğiniz primlerin tamamını yasal limitler çerçevesinde vergiden muaf tutabilirsiniz. Ürün özelinde sağlanan esneklikler ile poliçenizin 1.yılından itibaren finansal durumunuza bağlı olarak ödemelerinize ara verebilir, ödediğiniz primi değiştirebilir veya borç alabilirsiniz.",
+      
+      "paraBirimi": "USD",
+      "minimumAylikPrim": 30,
+      "policeSuresiYil": 12,
+      "imageAsset": "assets/images/hayata_yatirim.jpg"
+    },
+    "Ferdi Kaza Sigortası": {
+      "kisaAciklama": "Ücretsiz Sağlık Paketi ve check-up avantajlarıyla kazaya bağlı risklere karşı güvence.",
+      "uzunAciklama": "Yarınınız için önleminizi alırken ücretsiz Sağlık Paketi ve Check up avantajları ile kendinize iyi bakın! Ferdi Kaza Sigortası kazaya bağlı vefat, maluliyet ve tedavi masrafları risklerine karşı kendinizi güvence altına almanızı sağlar. Yarınınız için önleminizi alırken sağladığı ücretsiz Sağlık Paketi, Check up, Ev Bakımı ve Çocuk Paketi gibi ek faydalardan* da hemen yararlanmaya başlayabilirsiniz. Ayrıca, ödediğiniz primlerin tamamını, aylık brüt ücretin %15'ini ve brüt asgari ücretin toplam tutarını aşmamak kaydıyla vergi indiriminde kullanabilirsiniz. *Seçilen ürün ve pakete göre sunulan avantajlar farklılık göstermektedir.",
+      "imageAsset": "assets/images/ferdi_kaza.jpg"
+    },
+    "BES Planları": {
+      "kisaAciklama": "%30 devlet katkısı BES'in, sektör lideri Agessa ile birikim yapmak sizin avantajınız.",
+      "uzunAciklama": "%30 devlet katkısı BES'in, sektör lideri Agessa ile birikim yapmak sizin avantajınız. Agessa BES planlarıyla yarınınız için şimdiden bir adım atın, %30 devlet katkısıyla ve özel fon çeşitliliği avantajından yararlanın! Hedeflediğiniz birikim tutarına göre katkı payınızı ve ödeme sıklığınızı planlayabilirken dilerseniz 100.000 TL başlangıç katkı payı ödeyerek de Bireysel Emeklilik Sistemi'ne girebilir, giriş aidatı ve yönetim gider kesintilerinden muaf olabilirsiniz.",
+      "imageAsset": "assets/images/bes_emeklilik.jpg"
+    },
+    "Emeklilik Gelir Planı": {
+      "kisaAciklama": "BES'in avantajlarından emekli olduğunuzda da faydalanın! Programlı geri ödeme seçeneği ile.",
+      "uzunAciklama": "BES'in Avantajlarından Emekli Olduğunuzda da Faydalanın! En az 10 yıl sistemde kalmak ve 56 yaşını doldurarak Bireysel Emeklilik Sistemi'nden emekli olmanız durumunda Agessa Emeklilik Gelir Planı'na geçebilir, bu sayede sistemin sunduğu vergisiz fon getirisi imkanından yararlanmaya devam ederken oluşan birikimlerinizi ihtiyacınız ölçüsünde ve ihtiyaç duyduğunuz zaman almak üzere \"Programlı Geri Ödeme\" seçeneğinde değerlendirebilirsiniz.",
+      "imageAsset": "assets/images/bes_emeklilik.jpg"
+    }
+  }
+}
