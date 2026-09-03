@@ -1,4 +1,4 @@
-# 📱 Agessa Mobile
+# 📱 AgeSA Mobile
 
 Bireysel emeklilik ve birikim süreçlerini oyunlaştırma (gamification) dinamikleriyle zenginleştiren, kullanıcı odaklı mobil uygulama projesi.
 
