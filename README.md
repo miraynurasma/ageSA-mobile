@@ -18,10 +18,4 @@ Bireysel emeklilik ve birikim süreçlerini oyunlaştırma (gamification) dinami
 
 ---
 
-### ⚙️ Kurulum ve Çalıştırma
 
-```bash
-git clone [https://github.com/miraynurasma/agessa-mobile.git](https://github.com/miraynurasma/agessa-mobile.git)
-cd agessa-mobile/agessa_app
-flutter pub get
-flutter run
